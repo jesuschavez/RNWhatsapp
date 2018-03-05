@@ -1,8 +1,8 @@
 # RNWhatsapp
 
-Weekly project: **WhatsApp** clone using **React Native**
+Weekly project: **React Native**  **WhatsApp** clone.
 
-**Features** on this clone app:
+**App Clone** features:
 
 1. Screen Navigation using react-navigation
 2. react-native-searchbar
